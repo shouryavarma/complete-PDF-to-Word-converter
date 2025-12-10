@@ -1,0 +1,5 @@
+{
+  "name": "DocuMorph AI",
+  "description": "Intelligent PDF to Word converter using Gemini 2.5 Flash for layout-aware text extraction and client-side DOCX generation.",
+  "requestFramePermissions": []
+}
